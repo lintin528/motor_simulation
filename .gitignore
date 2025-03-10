@@ -1,0 +1,33 @@
+# ---- Python ----
+*.pyc
+*.pyo
+__pycache__/
+
+# ---- Jupyter Notebook ----
+.ipynb_checkpoints/
+
+# ---- Virtual Environment ----
+venv/
+.venv/
+
+# ---- Environment Variables ----
+.env
+.envrc
+*.secret
+
+# ---- Logs ----
+logs/
+*.log
+
+# ---- System Files ----
+.DS_Store
+Thumbs.db
+
+# ---- VSCode ----
+.vscode/
+
+# ---- Jupyter Notebook Extensions ----
+.jupyter/
+
+# ---- project data ----
+dataset/
