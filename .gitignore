@@ -31,4 +31,6 @@ Thumbs.db
 
 # ---- project data ----
 dataset/
-checkpoints20-20
+checkpoints20-20/
+checkpoints10-10/
+checkpoints*/
